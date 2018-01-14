@@ -6,8 +6,12 @@ body {
   margin-left: 30% !important;
   margin-right: 30% !important;
 }
-
-
+/*------Misc-----------*/
+.bold {
+  font-weight: 600 !important;
+  font-size: 20px !important;
+  line-height: 20px;
+}
 /*------Wrapper--------*/
 .wrapper {
   padding: 0 15px 0 15px;
@@ -137,11 +141,6 @@ nav .brand-logo .lower{
   font-size: 12px;
   font-weight: 300;
 }
-.bold {
-  font-weight: 600 !important;
-  font-size: 20px !important;
-  line-height: 20px;
-}
 #Product1 h3 {
   position: relative;
   margin-top: 0;
@@ -221,11 +220,6 @@ nav .brand-logo .lower{
   margin-left: 37.5%;
   width: 25%;
 }
-.bold {
-  font-weight: 600 !important;
-  font-size: 20px !important;
-  line-height: 20px;
-}
 #Product2 h3 {
   position: relative;
   margin-top: 0;
@@ -304,11 +298,6 @@ nav .brand-logo .lower{
 #Product3 .call {
   margin-left: 37.5%;
   width: 25%;
-}
-.bold {
-  font-weight: 600 !important;
-  font-size: 20px !important;
-  line-height: 20px;
 }
 #Product3 h3 {
   position: relative;
@@ -409,11 +398,6 @@ nav .brand-logo .lower{
 #Product4 .text1 div p{
   font-size: 12px;
   font-weight: 300;
-}
-.bold {
-  font-weight: 600 !important;
-  font-size: 20px !important;
-  line-height: 20px;
 }
 #Product4 h3 {
   position: relative;
